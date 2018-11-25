@@ -1,0 +1,12 @@
+ul.auto-complete-suggestions-list {
+  background: white;
+  margin: 0;
+  list-style: none;
+  padding: 0;
+  border: 1px solid grey;
+}
+
+.auto-complete-suggestion.active {
+  background: grey;
+  color: white;
+}

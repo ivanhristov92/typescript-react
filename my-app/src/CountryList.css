@@ -1,0 +1,16 @@
+.country-list-table td, .country-list-table th {
+    width: 200px;
+    padding: 0 8px;
+}
+
+.country-list-table tr:nth-child(even) {
+    background: grey;
+    color: white
+}
+
+.country-list-table th {
+    border-bottom: 1px solid grey;
+    padding: 5px;
+    line-height: 20px
+
+}
